@@ -2,7 +2,7 @@
 
 The Wild Oasis Website is the guest-facing booking application for a boutique hotel. Guests can browse cabins, view availability and pricing, create reservations, review their stays, and update their profile.
 
-The companion `the-wild-oasis` project is the private staff dashboard. Both applications use the same Supabase project and tables, but they are independently deployable and use different authentication flows: Google/NextAuth for guests and Supabase authentication for staff.
+The companion <a href="https://github.com/sauravsinghs/The-Wild-Oasis" target="_blank" rel="noopener noreferrer">the-wild-oasis</a> project is the private staff dashboard. Both applications use the same Supabase project and tables, but they are independently deployable and use different authentication flows: Google/NextAuth for guests and Supabase authentication for staff.
 
 ## Features
 
